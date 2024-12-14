@@ -18,7 +18,7 @@ This portfolio showcases my SQL projects, highlighting my skills in database des
 | Project Link | Area | Description |    
 |---|---|---|
 | 🤝 [Social Network Database](./Social-Network-Database/README.md) | Database Design | Modeled friendships and interactions, including user relationships and likes. | 
-| 💵 [Sales Data Warehouse](./Sales-Data-Warehouse(1)/README.md) | Data Warehousing | Designed a schema for sales tracking, enabling detailed customer and transaction analysis. | 
+| 💵 [Sales Data Warehouse](./Sales-Data-Warehouse/README.md) | Data Warehousing | Designed a schema for sales tracking, enabling detailed customer and transaction analysis. | 
 | 🚘 [Car Insurance Database](./Car-Insurance-Database/README.md) | Database Design | Created a relational model to track policies, claims, and accidents. |
 | 🎓 [University Database](./University-Database/README.md) | Database Design | Built a system for managing student enrollments, courses, and prerequisites. |
 | 💳 [Financial Transactions Database](./Financial-Transactions/README.md) | Query Optimization | Created advanced queries to track deposits, balances, and customer accounts. |
